@@ -1,2 +1,2 @@
 # topxiaomi
-main.php = Card.php
+main.php = card.php
