@@ -1,0 +1,27 @@
+
+.container-head{
+	width:70%;
+	margin-left:13%;
+	background: #F3DEDE;
+}
+.card {
+	width:23%;
+	margin-left:2%;
+	background-color: #7d866f;
+
+}
+.container-signup{
+	
+    width: 20%;
+    margin-left:38%;
+}
+.container-check{
+	width: 20%;
+    margin-left:40%;
+}
+.container-pro{
+	margin-left:38%;
+}
+.text-muted{
+	style color: #D0FF00; /* Цвет текста */
+}
